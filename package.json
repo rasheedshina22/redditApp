@@ -4,8 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "author": "shina",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://rasheedshina22.github.io/redditapp",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
