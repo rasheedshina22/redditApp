@@ -10,6 +10,10 @@
   "license": "MIT",
   "homepage": "https://rasheedshina22.github.io/redditapp",
   "dependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.0.1",
+    "parcel-bundler": "^1.12.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.5"
   }
 }
