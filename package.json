@@ -8,7 +8,7 @@
   },
   "author": "shina",
   "license": "MIT",
-  "homepage": "https://rasheedshina22.github.io/redditapp",
+  "homepage": "https://rasheedshina22.github.io/redditApp",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "parcel-bundler": "^1.12.3"
